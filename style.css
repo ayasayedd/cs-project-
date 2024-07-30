@@ -1,0 +1,10 @@
+.container{
+    max-width: 550px ;
+    width: 100%;
+}
+body{
+    font-family: "cairo";
+}
+.head-sec img
+{ max-height: 25px;
+}
